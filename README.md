@@ -60,3 +60,4 @@ Snapshot / deneme sürümleri → Linux-only
 Tam sürümler → Linux + Windows
 
 v1.21.1 sonrası yalnızca geçerli sürümler destek alır
+License: GPL-3.0 (see LICENSE.txt)
